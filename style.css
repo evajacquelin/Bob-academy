@@ -26,7 +26,16 @@ h1
 {
 	 background-color: #FFDD55;
 	 border-radius: 40px;
-	 margin-bottom: 15px;
+	 margin-bottom: 20px;
+	 font-family: 'Sulphur Point', sans-serif
+}
+
+.boutonjaune:hover
+{
+	 border-radius: 40px;
+	 margin-bottom: 20px;
+	 background-color: #002D62;
+	 color: white;
 }
 
 .blanc
@@ -64,14 +73,14 @@ h1
 	margin-right: 5%;
 }
 
-.boutonbleu
+.boutonvert
 {
 	 background-color: #C9E265;
 	 color: white;
 	 border-radius: 40px;
 }
 
-.boutonbleu:hover
+.boutonvert:hover
 {
 	background-color: #002D62;
 	color: white;
@@ -80,4 +89,25 @@ h1
 i
 {
 	color: #002D62;
+}
+
+*
+{
+	font-family: 'Sulphur Point', sans-serif
+}
+
+.gras
+{
+	font-weight: 600!important;
+}
+
+.police2
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+}
+
+.police3
+{
+	font-family: 'Montserrat', sans-serif;
 }
