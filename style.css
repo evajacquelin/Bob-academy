@@ -1,0 +1,83 @@
+
+h1
+{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600!important;
+}
+
+.jumbotron-hero
+ {
+  /* Choisis la hauteur ici */
+  height: 100%;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("couple.jpg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: white;
+  padding-top: 5%;
+}
+
+.boutonjaune
+{
+	 background-color: #FFDD55;
+	 border-radius: 40px;
+	 margin-bottom: 15px;
+}
+
+.blanc
+{
+	margin-top: 8%;
+}
+
+.police
+{
+	margin-top: 10%;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	text-align: center;
+	font-size: 17px;
+}
+
+.marge
+{
+	padding-left:20%; 
+	padding-right:20%;
+	padding-bottom: 5%;
+}
+
+.marge2
+{
+	padding-left:10%; 
+	padding-right:10%;
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+
+.marge3
+{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.boutonbleu
+{
+	 background-color: #C9E265;
+	 color: white;
+	 border-radius: 40px;
+}
+
+.boutonbleu:hover
+{
+	background-color: #002D62;
+	color: white;
+}
+
+i
+{
+	color: #002D62;
+}
